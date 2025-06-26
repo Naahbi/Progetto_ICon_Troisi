@@ -1,0 +1,16 @@
+pandas~=2.3.0
+newspaper3k
+lxml_html_clean
+datasets
+spacy~=3.8.7
+scikit-learn
+matplotlib
+numpy
+wordcloud
+vadersentiment
+XGBoost
+joblib
+nltk
+pgmpy==1.0.0
+tqdm~=4.67.1
+#pyswip
